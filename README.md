@@ -13,35 +13,57 @@ El problema identificado era que no tenían un punto de ventas donde se podía s
 ### SistemaVenta
 
 - Build
--- classes
--- empty
--- generated-sources
+>> classes
+>>>
+>> empty
+>>>
+>> generated-sources
+>>>
 - ap_source_output
--- test
---- classes
---- results
+>> test
+>>> classes
+>>>>
+>>> results
+>>>> 
 - librerias
--- AbsoluteLayout
--- itextpdf-5.5.1
--- jcalendar-1.4
--- jcommon-1.0.23
--- jfreechart-1.0.19
--- mysql-connector-java-8.0.19
-####- nbproject
--- private
---- config
---- provate
---- private
--- build-impl
--- genfiles
--- project
--- project
-- src
--- img
--- Modelo
--- reportes
--- sistemaventa
--- Vista
+>> AbsoluteLayout
+>>>
+>>  itextpdf-5.5.1
+>>>
+>> jcalendar-1.4
+>>> 
+>> jcommon-1.0.23
+>>> 
+>> jfreechart-1.0.19
+>>> 
+>> mysql-connector-java-8.0.19
+>>> 
+- nbproject
+>> private
+>>> config
+>>>>
+>>>  provate
+>>>>
+>>>  private
+>>>> 
+>> build-impl
+>>> 
+>> genfiles
+>>> 
+>> project
+>> 
+>> project
+> src
+>> img
+>>> 
+>> Modelo
+>>>
+>>  reportes
+>>>
+>>  sistemaventa
+>>>
+>>  Vista
+>>>  
 - test
 - .gitignore
 - build
@@ -72,7 +94,7 @@ El problema identificado era que no tenían un punto de ventas donde se podía s
 
 ## Requerimientos no Funcionales.
 
--Funcionalidad del sistema
+- Funcionalidad del sistema
 -	Disponibilidad del sistema al usuario 24/7
 -	La aplicación solo es compatible con el sistema operativo Windows de la empresa
 -	La aplicación contara con un instalador al escritorio
@@ -134,12 +156,21 @@ El software sera para uso interno del departamento de gestion y ventas, donde am
 2. Se depliega varias opciones, click en git, despues click en Branch/Tag y por ultimo Create Branch
 3. Creas tu branch y listo 
 
-- Una vez con los branch, puedes agregar archivos desde github, 
+- Una vez con los branch, puedes agregar archivos desde github
+*********Ejemplo 
+1. Presionamos en "agregar archivo" y luego en "Nuevo archivo"
+2. Nos pedirá el nombre del archivo en la parte superior
+3. Necesitamos crea una carpeta para guardar la imagenes que necesitemos para el repositorio. Así que hacemos lo siguiente: escribimos "imagenes/.gitkeep". * NOTA: Github no admite creación de carpetas vacías, por eso se usa un archivo .gitkeep dentro de la carpeta de imagenes *
+4. Bajamos más en la página y damos en "Commit new file"
+5. Nos mostrará una vista del archivo dentro de la carpeta "imagenes" que hemos creado
+6. Presionamos en "agregar archivo" y luego en "Subir archivos"
+7. Presionamos en "elegir archivos" y nos abrirá una ventana del explorador de archivos de Windows, aquí buscamos donde estan las imagenes que necesitamos y seleccionamos las que necesitamos dejando presionada la tecla "ctrl". Después presionamos "abrir". Github comenzará a subir la imagenes.
+8. Una vez terminada la subida de todas las imagenes, bajamos en la página y presionamos en "commit changes"
+9. Listo, agregaste mas contenido 
+
 ### Roadmap
 
 Con forme la aplicacion se va usando dentro de la empresa, podremos identificar errores y con eso ellos nos podimaos guiar para llegar a obejtivos de mejora y asi contruir un mejor una hoja de ruta donde se rediseñara el sistema para actualizaciones. Se planea tener updates de la aplicacion cada 2 meses para darle mantenimmiento al punto de venta. Se necesitara de una vista de perspectiva de alto nivel de todas las entragas de mejora en el sistema donde se estara vizualisando lo bueno y malo para estableces indicadores de rendimiento en el sistema. 
 
-
-Debe contar con pasos específicos para clonar repositorio, crear un nuevo branch, enviar el pull request, esperar a hacer el merge.
 
 
