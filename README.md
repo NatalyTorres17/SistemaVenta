@@ -172,5 +172,6 @@ El software sera para uso interno del departamento de gestion y ventas, donde am
 
 Con forme la aplicacion se va usando dentro de la empresa, podremos identificar errores y con eso ellos nos podimaos guiar para llegar a obejtivos de mejora y asi contruir un mejor una hoja de ruta donde se rediseñara el sistema para actualizaciones. Se planea tener updates de la aplicacion cada 2 meses para darle mantenimmiento al punto de venta. Se necesitara de una vista de perspectiva de alto nivel de todas las entragas de mejora en el sistema donde se estara vizualisando lo bueno y malo para estableces indicadores de rendimiento en el sistema. 
 
-
+![java2](https://user-images.githubusercontent.com/111213071/185529620-e5839b16-61b8-4df9-bf4d-95a48083c90b.png)
+![java2](https://user-images.githubusercontent.com/111213071/185529800-e7db85ee-d3ef-4cc5-a2dd-e5f14769f21a.png)
 
