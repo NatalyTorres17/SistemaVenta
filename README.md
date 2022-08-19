@@ -1,2 +1,2 @@
 # Sistema de Venta en Java y Mysql
-![java2](https://user-images.githubusercontent.com/71534078/127013163-f5529652-073a-4fcd-ac86-f10611249869.jpg)
+![java2](https://user-images.githubusercontent.com/111213071/185529565-7867b885-a589-45d5-8d68-5d49461500bd.png)
