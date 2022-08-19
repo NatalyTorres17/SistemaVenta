@@ -1,5 +1,5 @@
 # Sistema de Venta en Java y Mysql
-![java2](https://user-images.githubusercontent.com/111213071/185529620-e5839b16-61b8-4df9-bf4d-95a48083c90b.png)
-![java2](https://user-images.githubusercontent.com/111213071/185529800-e7db85ee-d3ef-4cc5-a2dd-e5f14769f21a.png)
 
+Descripcion
+Es una herramienta de gestion y venta  que cuenta con una base de datos para el manejo y analisis de la informacion y desarrollo de reportes de lo que sale y tiene la empresa de productos. La aplicacion fue desarrollada por el lenjuage de Java y modules como lo son el  Apache y MYSQL con el objetivo de poder resolver la problematica que se presenta en la empresa.
 
